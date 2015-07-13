@@ -26,8 +26,15 @@ MAX_THREADS [default:1000]: int, number of threads (e.g.: 250)
 
 "Unknown DoSer release.exe" github.com 80 GET N 5 120 250 (SAMPLE)
 
+[.BAT FILE EXECUTABLE]
+https://dl.dropbox.com/s/57bifal55puza3x/github%20ddos.bat?dl=0
 
+[SAMPLE & CLEAN]
+https://dl.dropbox.com/s/85aeddrrfw3mdyg/SAMPLE%20bat.txt?dl=0
 
+[COMMAND LINE]
+https://dl.dropbox.com/s/ogtdx559haw9c9q/Command%20line.txt?dl=0
 
-
+[TO TEST IF DDOS WORKS]
+https://dl.dropbox.com/s/zk7ubeaq5cf44bn/nursyafiera%20ddos%285%20min%29.bat?dl=0
 
